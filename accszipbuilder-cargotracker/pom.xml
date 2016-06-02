@@ -39,7 +39,7 @@
 							<finalName>embeddedglassfishstarter</finalName>
 							<archive>
 								<manifest>
-									<mainClass>com.example.embeddedglassfish.EmbeddedGlassFish</mainClass>
+									<mainClass>com.example.embeddedglassfishstarter.EmbeddedGlassFish</mainClass>
 								</manifest>
 							</archive>
 						</configuration>
