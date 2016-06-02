@@ -1,0 +1,9 @@
+{
+  "runtime": {
+      "majorVersion": "8"
+  },
+  "command": "java -Dappfile.name=cargo-tracker.war -Dcontextroot=cargo-tracker -jar embeddedglassfishstarter-jar-with-dependencies.jar",
+  "release": {
+    "version": "0.0.1-SNAPSHOT"
+  }
+}
